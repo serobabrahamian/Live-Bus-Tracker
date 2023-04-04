@@ -5,6 +5,7 @@ This project uses HTML, JavaScript, and APIs (Application Programming Interface)
 For this project you would need to create a Google Account and create an API key which you may then use to access their Maps on your web-site (up to a certain amount of fetches are free). So in JS document attached, you need to enter your own key for the project to work. Unfortunately, we will not be able to provide our personal key for you to use.
 
 --
+Running and Installation
 
 In order to install and run the Live Bus Tracker, please follow the following steps:
 1- download all files from repository
