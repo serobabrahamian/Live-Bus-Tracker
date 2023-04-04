@@ -8,7 +8,20 @@ For this project you would need to create a Google Account and create an API key
 Running and Installation
 
 In order to install and run the Live Bus Tracker, please follow the following steps:
+
 1- download all files from repository
+
 2 - open index.html file and enter your key on line 4 (follow instructions on line 3)
+
 3 - make sure Boston's MBTA data still works by going to their website
+
 4 - run by opening index file on browser
+
+
+--Roadmap of Future Improvements
+
+This project can evolve to include many different cities, all across the world and their public transportation system.
+By moving throughout the map, the users can see all the different maps while tracking different buses and possibly even other methods of transportation such as metro and train.
+
+--Licensing
+Created by Serob Abrahamian
