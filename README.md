@@ -4,8 +4,7 @@ This project uses HTML, JavaScript, and APIs (Application Programming Interface)
 
 For this project you would need to create a Google Account and create an API key which you may then use to access their Maps on your web-site (up to a certain amount of fetches are free). So in JS document attached, you need to enter your own key for the project to work. Unfortunately, we will not be able to provide our personal key for you to use.
 
---
-Running and Installation
+## Running and Installation
 
 In order to install and run the Live Bus Tracker, please follow the following steps:
 
@@ -18,11 +17,11 @@ In order to install and run the Live Bus Tracker, please follow the following st
 4 - run by opening index file on browser
 
 
---Roadmap of Future Improvements
+## Roadmap of Future Improvements
 
 This project can evolve to include many different cities, all across the world and their public transportation system.
 By moving throughout the map, the users can see all the different maps while tracking different buses and possibly even other methods of transportation such as metro and train.
 
---Licensing
+## Licensing
 
 Created by Serob Abrahamian
