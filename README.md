@@ -24,4 +24,5 @@ This project can evolve to include many different cities, all across the world a
 By moving throughout the map, the users can see all the different maps while tracking different buses and possibly even other methods of transportation such as metro and train.
 
 --Licensing
+
 Created by Serob Abrahamian
